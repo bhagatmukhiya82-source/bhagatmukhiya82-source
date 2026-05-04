@@ -43,7 +43,7 @@ I am an Electronics and Computer Science student focused on building hardware-so
 
 ### 📫 Connect with me:
 - **Email:** bhagat.mukhiya82@gmail.com
-- **LinkedIn:** [Insert your LinkedIn Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/bhagat-mukhiya-b74683380/
 
 <!--
 **bhagatmukhiya82-source/bhagatmukhiya82-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
