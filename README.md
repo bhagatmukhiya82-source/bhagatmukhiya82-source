@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌟 Custom Built-In Neon Header (Always Works, Never Rate-Limited) -->
-  <img src="./assets/header.svg" width="100%" alt="Bhagat Mukhiya Header" />
+  <img src="./assets/banner_3d.jpg" width="100%" alt="Bhagat Mukhiya - Minimalist 3D Banner" />
 
   <br/>
 
