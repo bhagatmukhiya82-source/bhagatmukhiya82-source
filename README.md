@@ -67,13 +67,14 @@
 
 <br/>
 
-#### 🎮 Character Stats & Technical Mastery
-- ⚡ **Embedded Systems & Firmware:** `[████████████████████░░]` **88%** *(ESP32-S3, Dual I2S, FSM, Arduino, RTOS)*
-- 🌐 **3D Web & Interactive Systems:** `[██████████████████░░░░]` **80%** *(Three.js, WebGL, APIs, Full-Stack Node)*
-- 📐 **CAD, Modeling & Physical Prototyping:** `[███████████████████░░░]` **84%** *(AutoCAD 2024, UN SDG 9 &amp; 12)*
-- 🎬 **Creative Direction & High-Retention Video:** `[█████████████████████░]` **92%** *(DaVinci Resolve, Premiere Pro, Motion Graphics)*
+#### 🎮 Technical Mastery & Proficiency
 
-<br/>
+| Focus Area | Level | Key Stack & Systems |
+| :--- | :---: | :--- |
+| ⚡ **Embedded Systems & Firmware** | <img src="https://img.shields.io/badge/88%25-00F5D4?style=flat-square&labelColor=0d1117" alt="88%" /> | **ESP32-S3 • Dual I2S Audio • 6-State FSM • FreeRTOS** |
+| 🌐 **3D Web & Interactive Systems** | <img src="https://img.shields.io/badge/80%25-0070F3?style=flat-square&labelColor=0d1117" alt="80%" /> | **Three.js • WebGL Twins • REST APIs • Node.js** |
+| 📐 **CAD, Modeling & Hardware Design** | <img src="https://img.shields.io/badge/84%25-7928CA?style=flat-square&labelColor=0d1117" alt="84%" /> | **AutoCAD 2024 • Sectional 3D • UN SDG 9 & 12 Optimization** |
+| 🎬 **Creative Direction & High-Retention Video** | <img src="https://img.shields.io/badge/92%25-FF007A?style=flat-square&labelColor=0d1117" alt="92%" /> | **DaVinci Resolve • Premiere Pro • Motion Graphics** |
 
 #### 🗺️ Current Quests & Missions
 | State | Quest / Mission Log | Focus Area |
