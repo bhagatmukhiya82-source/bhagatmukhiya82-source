@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌟 Custom Built-In Neon Header (Always Works, Never Rate-Limited) -->
-  <img src="https://raw.githubusercontent.com/bhagatmukhiya82-source/bhagatmukhiya82-source/main/assets/header.svg" width="100%" alt="Bhagat Mukhiya Header" />
+  <img src="./assets/header.svg" width="100%" alt="Bhagat Mukhiya Header" />
 
   <br/>
 
