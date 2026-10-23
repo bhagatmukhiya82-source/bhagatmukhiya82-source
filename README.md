@@ -1,24 +1,25 @@
-<!-- ========================================================================= -->
-<!-- 🔥 HERO ANIMATED HEADER -->
-<!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007A,30:7928CA,70:0070F3,100:00DFD8&height=220&section=header&text=Bhagat%20Mukhiya&fontSize=48&fontAlignY=36&animation=twinkling&desc=Electronics%20%26%20Computer%20Science%20Engineer%20%E2%80%A2%20IoT%20Architect%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=18" width="100%" />
 
-  <!-- Animated Glowing Typewriter -->
+  <!-- 🌟 Custom Built-In Neon Header (Always Works, Never Rate-Limited) -->
+  <img src="https://raw.githubusercontent.com/bhagatmukhiya82-source/bhagatmukhiya82-source/main/assets/header.svg" width="100%" alt="Bhagat Mukhiya Header" />
+
+  <br/>
+
+  <!-- ⚡ Glowing Typewriter Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=%E2%9A%A1+Building+Next-Gen+Embedded+%26+IoT+Ecosystems;%F0%9F%A7%A0+ESP32-S3+%7C+Dual+I2S+Audio+%7C+6-State+FSM;%F0%9F%8F%86+Smart+India+Hackathon+Finalist+%40+ByteKnight;%F0%9F%8E%AC+Creative+Direction+%7C+High-Impact+Visual+Media" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Interactive & Live Badges -->
+  <!-- 🎯 Live Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bhagatmukhiya82-source&color=7928CA&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/SIH%202026-Team%20ByteKnight-FF007A?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" alt="SIH 2026" />
-    <img src="https://img.shields.io/badge/Specialty-Embedded%20%2B%20Full%20Stack%20IoT-00F5D4?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117" alt="Specialty" />
+    <img src="https://img.shields.io/badge/Status-Building%20Hardware%20%2B%20AI-00F5D4?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0d1117" alt="Status" />
   </p>
 
-  <!-- Connect Pill Buttons -->
+  <!-- 🌐 Social Connect Buttons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/bhagat-mukhiya-b74683380/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,43 +33,74 @@
       <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+
 </div>
 
 ---
 
-### 🔮 About Me
+### ⚡ Developer Profile & Persona
 
-```yaml
-Name: Bhagat Mukhiya
-Degree: B.E. in Electronics & Computer Science @ SAKEC
-Hackathons: Smart India Hackathon (SIH 2026) Finalist (Team ByteKnight)
-Core_Focus: Embedded Firmware, Real-Time Sensor Fusion, 3D Web Twins, Autonomous Systems
-Superpower: Translating raw engineering architecture into polished visual narratives & prototypes
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%9A%80%20PRIMARY%20ROLE-IoT%20%26%20Firmware%20Architect-FF007A?style=for-the-badge&labelColor=0d1117" /><br/>
+        <sub><b>ESP32-S3 • Dual I2S Audio • Sensor Fusion</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8F%86%20HACKATHON-SIH%202026%20Finalist-7928CA?style=for-the-badge&labelColor=0d1117" /><br/>
+        <sub><b>Team ByteKnight • INCOIS PS 26067 &amp; Legal Metrology</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20CREATIVE-Motion%20%26%20Video%20Director-00F5D4?style=for-the-badge&labelColor=0d1117" /><br/>
+        <sub><b>DaVinci Resolve • Premiere Pro • Visual Storytelling</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%93%20EDUCATION-B.E.%20Electronics%20%26%20CS-0070F3?style=for-the-badge&labelColor=0d1117" /><br/>
+        <sub><b>Shah &amp; Anchor Kutchhi Engineering College (SAKEC)</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 💡 **Embedded & IoT Engineering:** Crafting edge-AI devices on **ESP32-S3** with dual-bus I2S audio, OLED displays, and deterministic 6-state machine models.
-- 🌊 **Digital Twin & 3D Web:** Architecting browser-based scientific visualization engines (Three.js/WebGL) for oceanographic in-situ observation analysis.
-- 📐 **Precision Modeling:** Designing mechanical assemblies and vehicle chassis in **AutoCAD 2024** aligned with UN Sustainable Development Goals (SDG 9 & 12).
-- 🎬 **Creative Direction:** Professional motion design and video editing via **DaVinci Resolve** & **Adobe Premiere Pro** for product launches and technical demos.
+<br/>
+
+#### 🎮 Character Stats & Technical Mastery
+- ⚡ **Embedded Systems & Firmware:** `[████████████████████░░]` **88%** *(ESP32-S3, Dual I2S, FSM, Arduino, RTOS)*
+- 🌐 **3D Web & Interactive Systems:** `[██████████████████░░░░]` **80%** *(Three.js, WebGL, APIs, Full-Stack Node)*
+- 📐 **CAD, Modeling & Physical Prototyping:** `[███████████████████░░░]` **84%** *(AutoCAD 2024, UN SDG 9 &amp; 12)*
+- 🎬 **Creative Direction & High-Retention Video:** `[█████████████████████░]` **92%** *(DaVinci Resolve, Premiere Pro, Motion Graphics)*
+
+<br/>
+
+#### 🗺️ Current Quests & Missions
+| State | Quest / Mission Log | Focus Area |
+| :---: | :--- | :--- |
+| 🟢 | **Fine-tuning ESP32-S3 Xiaozhi Voice Hardware** with edge DSP & OLED UX | *Embedded AI* |
+| 🟡 | **Scaling INCOIS 3D Ocean Digital Twin** with multi-layer depth bathymetry | *Interactive WebGL* |
+| 🟣 | **Expanding METRI-VERIFY** anti-fraud legal metrology lifecycle ecosystem | *Smart Governance* |
+| 🔵 | **Open to collaborating on** robotics prototypes, IoT sensor nodes & hackathon teams | *Innovation* |
 
 ---
 
 ### 🎨 Tech Stack & Toolkit
 
 <div align="center">
-  <p><b>Core Languages & Full-Stack Development</b></p>
+  <p><b>Core Programming & Web Technologies</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css,tailwind,nodejs,express&perline=11" alt="Languages & Web" />
   </a>
   <br/><br/>
   
-  <p><b>Embedded Systems, Hardware & Cloud Tools</b></p>
+  <p><b>Embedded Systems, Hardware & Creative Suite</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,vscode,postman,figma,pr,ae,ps&perline=11" alt="Hardware & Design Tools" />
   </a>
   <br/><br/>
 
-  <!-- Hardware & Specialized Tags -->
+  <!-- Hardware Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
     <img src="https://img.shields.io/badge/Dual_I2S_Audio-009688?style=flat-square&logo=soundcharts&logoColor=white" alt="I2S" />
@@ -135,7 +167,7 @@ Superpower: Translating raw engineering architecture into polished visual narrat
       </div>
       <ul>
         <li>Precision CAD modeling featuring comprehensive orthographic, sectional, and isometric 3D projections.</li>
-        <li>Optimized structural weight and material selection in compliance with UN Sustainability Goals 9 & 12.</li>
+        <li>Optimized structural weight and material selection in compliance with UN Sustainability Goals 9 &amp; 12.</li>
         <li>Engineered for high modularity across sensor mounts and drive chassis components.</li>
       </ul>
     </td>
@@ -169,14 +201,10 @@ Superpower: Translating raw engineering architecture into polished visual narrat
 
 ---
 
-<!-- ========================================================================= -->
-<!-- 🌊 ANIMATED WAVING GRADIENT FOOTER -->
-<!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF007A,30:7928CA,70:0070F3,100:00DFD8&height=120&section=footer" width="100%" />
   <p align="center">
     ⚡ <i>"Bridging high-performance embedded silicon with immersive digital experiences."</i> ⚡
-    <br/>
-    <b>© 2026 Bhagat Mukhiya. Crafted with passion & code.</b>
+    <br/><br/>
+    <b>© 2026 Bhagat Mukhiya • Crafted with precision &amp; code</b>
   </p>
 </div>
