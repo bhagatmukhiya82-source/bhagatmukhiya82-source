@@ -8,7 +8,7 @@
   <!-- ⚡ Glowing Typewriter Animation -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=%E2%9A%A1+Building+Next-Gen+Embedded+%26+IoT+Ecosystems;%F0%9F%A7%A0+ESP32-S3+%7C+Dual+I2S+Audio+%7C+6-State+FSM;%F0%9F%8F%86+Smart+India+Hackathon+Finalist+%40+ByteKnight;%F0%9F%8E%AC+Creative+Direction+%7C+High-Impact+Visual+Media" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=%E2%9A%A1+Building+Next-Gen+Embedded+%26+IoT+Ecosystems;%F0%9F%A7%A0+ESP32-S3+%7C+Dual+I2S+Audio+%7C+6-State+FSM;%F0%9F%90%86+Founder+%40+Flying+Cheetah+%7C+Autonomous+AI+Commerce;%F0%9F%8E%AC+Creative+Direction+%7C+High-Impact+Visual+Media" alt="Typing SVG" />
     </a>
   </p>
 
