@@ -191,9 +191,9 @@
     </tr>
   </table>
 
-  <!-- Daily Dev Quote -->
+  <!-- Anime Quote: Monkey D. Luffy -->
   <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="98%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=As%20long%20as%20I%20am%20alive%2C%20there%20are%20infinite%20chances!&author=Monkey%20D.%20Luffy" width="98%" alt="Monkey D. Luffy Quote" />
 </div>
 
 ---
