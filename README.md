@@ -191,10 +191,6 @@
     </tr>
   </table>
 
-  <!-- Streak Stats Card -->
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=bhagatmukhiya82-source&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=00F5D4&fire=FF007A&currStreakNum=00F5D4&sideNums=FFFFFF" width="98%" />
-  
   <!-- Daily Dev Quote -->
   <br/><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="98%" />
